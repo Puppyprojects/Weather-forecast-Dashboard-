@@ -24,7 +24,7 @@ The **Weather Analytics Dashboard** is an interactive Power BI project designed 
 
 ### 🌍 Multi-City Comparison
 
-* Compare weather across cities like Ajmer, Haridwar, and Kolkata
+* Compare weather across cities like Ajmer, Haridwar, and Kolkata etc
 * Easy navigation between locations
 
 ### 🌫️ Air Quality Index (AQI)
